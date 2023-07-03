@@ -1,0 +1,27 @@
+.game-report-table-logo {
+    width: auto; 
+    height: 25px;
+}
+
+.game-foul-report-img{
+    width: 40px; 
+    height: 30px 
+}
+
+.game-report.dropdown-toggle::after{
+    content: none;
+}
+
+.game-report.dropdown-BG.btn-primary{
+    --bs-btn-bg: none;
+    --bs-btn-border-color: none;
+    --bs-btn-hover-bg: none;
+}
+
+.game-report.btn-check:checked+.btn,
+.btn.active,
+.btn.show,
+.btn:first-child:active,
+:not(.btn-check)+.btn:active {
+    background-color: none;
+}
