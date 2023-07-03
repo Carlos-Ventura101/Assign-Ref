@@ -1,0 +1,16 @@
+.hero-container {
+  background: url("../../assets/images/background/Ref_dark.jpg"); 
+  background-repeat: repeat-x;
+  height: auto;
+  background-size: cover;
+  background-position: center top;
+  display: flex;
+}
+ 
+.texture-background-white {
+  background: url("../../assets/images/background/white_wall_hash.png"); 
+}
+
+
+
+
